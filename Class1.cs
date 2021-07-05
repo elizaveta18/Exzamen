@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.IO;
 using System.Threading.Tasks;
+using System.Diagnostics;
 
 namespace Экзамен
 {
@@ -39,6 +40,10 @@ namespace Экзамен
                 }
                 sr.WriteLine(max);
             }
+            Debug.Listeners.Add(new TextWriterTraceListener(Console.Out));
+            Debug.Listeners.Add(new TextWriterTraceListener(File.CreateText("Отладка.txt")));
+            Debug.AutoFlush = true;
+            Debug.WriteLine("Ошибок не найдено, решение записано");
         }
         struct Rbt
         {
