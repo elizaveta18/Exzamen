@@ -1,1 +1,60 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T07:26:23.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="V9qfniYqv2GvzK9NiVgl" version="14.8.4" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">5Vlde5owFP41XLYPkCJwqaJ2W7d1T7e13V2UVLMBcTFW7a9fIB+ED7WfrltvYvJycgh5z3lzQAv00/WIwvnsI4lRYrl2vLZAZLmuY4OA/+TIRiCe6whgSnEsjUrgAt8hNVOiSxyjRcWQEZIwPK+CE5JlaMIqGKSUrKpmNySp3nUOp6gBXExg0kQvccxmAg1cv8RPEZ7O1J2dTiiupFAZyydZzGBMVgYEBhboU0KY6KXrPkryzVP7cvluc5mc/eqM3n9Z/Ibfeh++fvp+JJwNHzJFPwJFGXu060+D8x9nt+ll/Pl0MxhFIzQ5dY9O1LOxjdowFPP9k0NC2YxMSQaTQYn2KFlmMcrd2nxU2pwRMuegw8GfiLGNDAa4ZIRDM5Ym8ip/DLq5kvOLwXU+OPY9NY7W5tVoI0disfkKa+Tu2RlptyBLOkE7tgMAGaGQThHbZejrAOCZg0iK+DL5RIoSyPBtdXlQhvBU25U08Y5k6iGsSce3MFmqWx3zscU3KXTzthcVrWfx/Q4c1dd4IBExpXdStLZhEBUTe0XrtYbIGRxzpajQChM8zXh/wslAlAO3iDLMU7ErL6Q4jkUEoQW+g+PCX87rnOCMFbvk9Swv0kznDtDaatEJObnMTjMGdoR6kzLp3j7muS+17t4sSm/n+fINE3Jzs+DhU6dZ3/QJzLuvKV9fOF33Z2HwxCys8aciTZ1d8sjTMaZcCB2Rs0qSu5TCjWEmo3r7fTrt9xk+zp53xAqeN+JAQ2tcrTXDQiCEcAyK1jV0R+BdKS75FA2K1lETOe4afYEPG8jAmBVVr2oPPCQ6CQ+a3pjy3pQVYdiBKY/0XjZe5D/Ke23poLG+vmoLLfw/VNDdo4LADsJKlDlP00Tp+AjYbV4PoJj+G1LMZyxwwueQ1ocqogsepogN+/AQihg0FBGYiqgFRZRPQlb8fTVYUFVBoUemrJr12Fsq27ZU2mXZ5ruvvWoDzTO0esLpYBEnjt84UG0jOryKfZ1k/pY6z7vLNOlOGDH5LLg/JwvMMMl5HRPGSNpCOMtVzgwRsmQJzlBfv6Pbu7i+n1ptpTSsnRRqvCpf31Xaz4w39469nfEnvW0Bv5W9rmMkts5ekX4mb60JXxQtsmOmcai4FSVTjdvqsbSaYYYu5rAQ/BWFNc5eih7g1/g5afLjtBFUr6Kfj6CmIBdaHBmp4xkp1THUc4cid416MKhUmBVB19Vpt0W7pauhcRLoMvVfIFd/xjPJVUfLYcgN28n1G/l1n48dmlBPCa3gxRRgzZFd6Usq3V1p+zo5DWqcBi2c+ofk9CT8KzX5GrOrsgrno2vjSlmQ54OD1ePhoerxLYTxYfkFW9Q75f8AYPAH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-05T07:27:08.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="6ugLMEMNcJo1KLqAgLUN" version="14.8.4" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NEPZLvmWdOHyEGDGecH2-33" target="NEPZLvmWdOHyEGDGecH2-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-41" value="1. Внесение данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NEPZLvmWdOHyEGDGecH2-40" vertex="1" connectable="0">
+          <mxGeometry x="0.2118" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NEPZLvmWdOHyEGDGecH2-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="220" />
+              <mxPoint x="160" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-43" value="2. Проверка работоспособности&lt;br&gt;&amp;nbsp;программы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NEPZLvmWdOHyEGDGecH2-42" vertex="1" connectable="0">
+          <mxGeometry x="0.3089" y="1" relative="1" as="geometry">
+            <mxPoint x="-30" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NEPZLvmWdOHyEGDGecH2-33" target="NEPZLvmWdOHyEGDGecH2-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="220" />
+              <mxPoint x="230" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-48" value="3. Получение итоговых данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NEPZLvmWdOHyEGDGecH2-47" vertex="1" connectable="0">
+          <mxGeometry x="0.272" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-33" value="пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-37" value="Считывание с файла" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="140" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-38" value="Нахождение критического пути" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="210" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-39" value="Занесение результата в файл" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="380" y="280" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NEPZLvmWdOHyEGDGecH2-39" target="NEPZLvmWdOHyEGDGecH2-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
