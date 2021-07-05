@@ -1,0 +1,60 @@
+<mxfile host="app.diagrams.net" modified="2021-07-05T07:43:16.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="LiP_1BecqjtTj51LqyV0" version="14.8.4" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1038" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NEPZLvmWdOHyEGDGecH2-33" target="NEPZLvmWdOHyEGDGecH2-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-41" value="1. Внесение данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NEPZLvmWdOHyEGDGecH2-40" vertex="1" connectable="0">
+          <mxGeometry x="0.2118" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NEPZLvmWdOHyEGDGecH2-38" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="220" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="160" y="220" />
+              <mxPoint x="160" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-43" value="2. Проверка работоспособности&lt;br&gt;&amp;nbsp;программы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NEPZLvmWdOHyEGDGecH2-42" vertex="1" connectable="0">
+          <mxGeometry x="0.3089" y="1" relative="1" as="geometry">
+            <mxPoint x="-30" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NEPZLvmWdOHyEGDGecH2-33" target="NEPZLvmWdOHyEGDGecH2-39" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="220" />
+              <mxPoint x="230" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-48" value="3. Получение итоговых данных" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="NEPZLvmWdOHyEGDGecH2-47" vertex="1" connectable="0">
+          <mxGeometry x="0.272" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-33" value="пользователь" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-37" value="Считывание с файла" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="140" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-38" value="Нахождение критического пути" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="210" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-39" value="Занесение результата в файл" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="380" y="280" width="175" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NEPZLvmWdOHyEGDGecH2-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NEPZLvmWdOHyEGDGecH2-39" target="NEPZLvmWdOHyEGDGecH2-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
